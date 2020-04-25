@@ -1,0 +1,15 @@
+C:\Users\demya\source\repos\bannikov_crypto\bannikov_crypto\bin\Debug\bannikov_crypto.exe.config
+C:\Users\demya\source\repos\bannikov_crypto\bannikov_crypto\bin\Debug\bannikov_crypto.exe
+C:\Users\demya\source\repos\bannikov_crypto\bannikov_crypto\bin\Debug\bannikov_crypto.pdb
+C:\Users\demya\source\repos\bannikov_crypto\bannikov_crypto\obj\Debug\bannikov_crypto.csprojAssemblyReference.cache
+C:\Users\demya\source\repos\bannikov_crypto\bannikov_crypto\obj\Debug\bannikov_crypto.Form1.resources
+C:\Users\demya\source\repos\bannikov_crypto\bannikov_crypto\obj\Debug\bannikov_crypto.Properties.Resources.resources
+C:\Users\demya\source\repos\bannikov_crypto\bannikov_crypto\obj\Debug\bannikov_crypto.csproj.GenerateResource.cache
+C:\Users\demya\source\repos\bannikov_crypto\bannikov_crypto\obj\Debug\bannikov_crypto.csproj.CoreCompileInputs.cache
+C:\Users\demya\source\repos\bannikov_crypto\bannikov_crypto\obj\Debug\bannikov_crypto.exe
+C:\Users\demya\source\repos\bannikov_crypto\bannikov_crypto\obj\Debug\bannikov_crypto.pdb
+C:\Users\demya\source\repos\bannikov_crypto\bannikov_crypto\bin\Debug\Interop.WMPLib.dll
+C:\Users\demya\source\repos\bannikov_crypto\bannikov_crypto\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\demya\source\repos\bannikov_crypto\bannikov_crypto\obj\Debug\Interop.WMPLib.dll
+C:\Users\demya\source\repos\bannikov_crypto\bannikov_crypto\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\demya\source\repos\bannikov_crypto\bannikov_crypto\obj\Debug\bannikov_crypto.csproj.ResolveComReference.cache
